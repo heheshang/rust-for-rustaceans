@@ -1,0 +1,6 @@
+[book]
+authors = ["yar999"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Rust for Rustaceans"
