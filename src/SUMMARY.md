@@ -7,3 +7,4 @@
 - [第5章 项目结构](./chapter_5.md)
 - [第6章 测试](./chapter_6.md)
 - [第7章 宏](./chapter_7.md)
+- [第8章 异步编程](./chapter_8.md)
