@@ -12,3 +12,4 @@
 - [第10章 并发性（和并行性）](./chapter_10.md)
 - [第11章 外部函数接口](./chapter_11.md)
 - [第12章 没有标准库的Rust](./chapter_12.md)
+- [第13章 Rust 生态系统](./chapter_13.md)
