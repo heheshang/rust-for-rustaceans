@@ -1,3 +1,3 @@
-# Rust for Rustaceans 中文翻译
+# Rust for Rustaceans 阅读翻译记录
 
-Rust for Rustaceans 中文翻译
+Rust for Rustaceans 阅读翻译记录
